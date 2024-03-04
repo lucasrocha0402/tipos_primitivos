@@ -1,0 +1,22 @@
+int:inteiro(7, -4, 0 ,9875): tipo inteiro são numero positivos ou negativos, sem parte fracionaria;
+
+float:ponto flutuante(4.5, 0.076, -15.223, 7.0): ponto flutuante ou seja nnúmeros com parte fracionaria
+
+bool:booleano(True e False) : Representa valores lógicos True(verdadeiro) e False(falso)
+
+str:String('OLA', "7.5" ''): Representa sequencias de caracteres pode ser usao aspas simples ou duplas
+
+parenteses()
+colchetes[]
+chaves{}
+
+print('A soma vale', s )
+
+print('A soma vale{}'.format(s)  )
+
+a formatação do print com o f (print(f'o que deseja exibir {variavel}'))
+O f significa "Formatted string literal" esse recurso foi introduzido no python 3.6 e permite incorporar 
+expressões dentro de strings, tornando a formatação de strings mais faceis e legiveis
+
+o f indica que esta é uma f-string e as expressões entre chavees '{}' são avaliadas e inseridas diretamente 
+na string.
